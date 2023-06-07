@@ -3,11 +3,12 @@
 A new Flutter project.
 
 
-  Here I integrate Firebase:
+Here I integrate Firebase:
+  
     1.Authentication 
-     Email/password
-     Phone number
-     Google
+       Email/password
+       Phone number
+       Google
     2.Work with real time database
     3.use firestore
 
